@@ -1,5 +1,5 @@
 # HYBRID Recommender System
-![pexels-cottonbro-3945313](https://user-images.githubusercontent.com/101832704/175605911-27d53786-a01a-435f-971f-fbe3b6167529.jpg)
+![pexels-cottonbro-3945317](https://user-images.githubusercontent.com/101832704/175607063-4b49e616-7a93-4cf0-959e-0f0c07428c84.jpg)
 
 # İŞ PROBLEMİ
 
