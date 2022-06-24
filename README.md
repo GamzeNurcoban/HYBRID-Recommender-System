@@ -1,4 +1,4 @@
-# HYBRID-Recommender-System
+# HYBRID Recommender System
 ![pexels-cottonbro-3945313](https://user-images.githubusercontent.com/101832704/175604267-643c2f16-a5f2-44e0-bbaf-8db97f459c31.jpg)
 
 # İŞ PROBLEMİ
